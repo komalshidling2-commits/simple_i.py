@@ -9,5 +9,5 @@ if __name__ == "__main__":
     i = int(sys.argv[2])
     t = int(sys.argv[3])
 
-    result = SI(p i t)
+    result = SI(p ,i ,t)
     print("simple interest:",result)
